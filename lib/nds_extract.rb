@@ -13,6 +13,7 @@ def directors_totals(nds)
       hash[nds[diretor_index][:name]] = total
       movie_index += 1
     end
+  movie_index = 0
   diretor_index += 1
   end
   return hash
