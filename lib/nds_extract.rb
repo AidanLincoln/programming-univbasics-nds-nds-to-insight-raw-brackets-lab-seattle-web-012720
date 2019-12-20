@@ -13,9 +13,9 @@ def directors_totals(nds)
       #hash[nds[diretor_index][:name]] = total
       #movie_index += 1
     #end
-  diretor_index += 1
-  end
-  return hash
-  
+  #diretor_index += 1
+  #end
+  #return hash
+  pp nds
   nil
 end
