@@ -16,5 +16,5 @@ def directors_totals(nds)
   diretor_index += 1
   end
   return hash
-  
+  nil
 end
